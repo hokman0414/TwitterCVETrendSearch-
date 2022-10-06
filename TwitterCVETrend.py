@@ -6,7 +6,7 @@ import json
 token = 'ENTER TWITTER BEARER TOKEN'
 tweet_fields= "created_at,public_metrics"
 #querry
-query="CVE-2022-41040 "
+
 
 start_time = '2022-10-04T12:00:01.000Z'
 queryList = ['CVE-2022-41040','CVE-2022-41082','CVE-2022-30190','CVE-2020-6201',
