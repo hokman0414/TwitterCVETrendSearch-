@@ -1,9 +1,5 @@
 # TwitterCVETrendSearch-
 
-project 2:
-Have lists of Threat actor names targeting financial industries.
-requests all the approved website lists. web scrape data - all the blog infos, mentions of the TA in list
-use the partial match function. If values not none (match found at list)- the variable name, + website link to it.
 
 
 
