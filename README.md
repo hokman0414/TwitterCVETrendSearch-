@@ -5,7 +5,7 @@
 
 This project mainly interacts with NVD/TWitter API for info.
 
-project 1 - it's like CVE trend but does not reply on audience view count and can search much more vulnerabilites.
+project 1 - it's like CVE trend but does not rely on audience view count and can search much more vulnerabilites.
 function 1. NVD CVE gatherer
 2 lists: 1. List_CVE's 2. CVE DICT LIST(CVE:,CVSS metrics, Descriptions)
 
