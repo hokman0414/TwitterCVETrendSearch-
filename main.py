@@ -18,10 +18,10 @@ date_string = two_days_ago.strftime('%Y-%m-%d')
 #------------------ actual code---------------------------------
 
 #input variables for the class
-token1 = 'AAAAAAAAAAAAAAAAAAAAAI1thwEAAAAAZcmgBw%2FIyiEHTutSe9h943W64DU%3DVbW200bFAVCDNS4u7xFDjBsCiRc0FT8QAUUWAxwIfU6Bl7hDzk'
-token2='AAAAAAAAAAAAAAAAAAAAAFOSkgEAAAAAuWgPALsN1RBd%2BTH89wA8bRpRm4c%3Dk3BycFNCxSoBxRxp1nk0YTCl73IWsZEL1mM78TeXK7yS8UVDf3'
-token3='AAAAAAAAAAAAAAAAAAAAAJSSkgEAAAAAslQRvg5pQT5i4g6n8pJ6pmvv8mg%3DYXnwlyyvM6BMNfJUqH2jxsK2JIcHJMnG0AIVFigIm8Lfs3BsyQ'
-token4='AAAAAAAAAAAAAAAAAAAAAMKSkgEAAAAAYt9v8XhDEZ2a9i9LUPR6bljlQ9g%3DODwTwgpoLVHv4pRRTvszw1XXB4RrocjjmD89PdQBJ8VlCxUsii'
+token1 =
+token2=
+token3=
+token4=
 
 tweet_fields= "created_at,public_metrics,author_id"
 #queryies
